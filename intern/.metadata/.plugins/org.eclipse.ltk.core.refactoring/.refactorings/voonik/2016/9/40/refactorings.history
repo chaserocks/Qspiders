@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;voonik&apos;&#x0D;&#x0A;- Original project: &apos;voonik&apos;&#x0D;&#x0A;- Original element: &apos;voonik/src/test/java/voonik.voonik&apos;" description="Delete element" element1="/src\/test\/java&lt;voonik.voonik" element2="/src\/test\/java&lt;voonik" elements="2" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1475126830159" subPackages="false" version="1.0"/>
+</session>

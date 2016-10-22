@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[UserA 123]]>
+    </line>
+    <line>
+      <![CDATA[UserB 456]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="71" started-at="2016-07-18T19:45:19Z" finished-at="2016-07-18T19:45:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="71" started-at="2016-07-18T19:45:19Z" finished-at="2016-07-18T19:45:19Z">
+      <class name="Jul12TestNG.testMethodwithMultipleInputs">
+        <test-method status="PASS" signature="createUser(java.lang.String, java.lang.String)[pri:0, instance:Jul12TestNG.testMethodwithMultipleInputs@736d4a3e]" name="createUser" duration-ms="22" started-at="2016-07-18T12:45:19Z" data-provider="getData" finished-at="2016-07-18T12:45:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[UserA]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[UserA 123]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+        <test-method status="PASS" signature="createUser(java.lang.String, java.lang.String)[pri:0, instance:Jul12TestNG.testMethodwithMultipleInputs@736d4a3e]" name="createUser" duration-ms="4" started-at="2016-07-18T12:45:19Z" data-provider="getData" finished-at="2016-07-18T12:45:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[UserB]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[UserB 456]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+      </class> <!-- Jul12TestNG.testMethodwithMultipleInputs -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

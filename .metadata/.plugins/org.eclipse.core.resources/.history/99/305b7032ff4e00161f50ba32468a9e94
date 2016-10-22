@@ -1,0 +1,13 @@
+package com.launchGoogle;
+
+import org.eclipse.jdt.internal.compiler.batch.Main;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+
+public class LaunchGoogle {
+	public void testLaunch(){
+	WebDriver driver = new FirefoxDriver();
+	driver.get("https://google.com");
+	driver.close();
+	}
+}

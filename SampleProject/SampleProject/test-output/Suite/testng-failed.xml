@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.test.liqvid.library.TestngListener"/>
+    <listener class-name="com.kirwa.nxgreport.listners.NXGTestListner"/>
+  </listeners>
+  <test name="Test_Registration">
+    <classes>
+      <class name="com.liqvid.scripts.AdminTest">
+        <methods>
+          <include name="updateTeachersProfile"/>
+        </methods>
+      </class> <!-- com.liqvid.scripts.AdminTest -->
+    </classes>
+  </test> <!-- Test_Registration -->
+  <test name="Test_Registration(failed)">
+    <classes>
+      <class name="com.liqvid.scripts.AdminTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="updateTeachersProfile"/>
+        </methods>
+      </class> <!-- com.liqvid.scripts.AdminTest -->
+    </classes>
+  </test> <!-- Test_Registration(failed) -->
+</suite> <!-- Failed suite [Suite] -->

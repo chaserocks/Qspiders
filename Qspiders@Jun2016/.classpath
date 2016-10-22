@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="softAssertDemo"/>
+	<classpathentry kind="lib" path="E:/Mystuff/Chintu/SOFTWARE TESTING STUFF/2.Q-EDGE/Selenium/External jar Files/ExternalJarFiles-master/Jars/ATUTestRecorder_2.1.jar"/>
+	<classpathentry kind="lib" path="E:/Mystuff/Chintu/SOFTWARE TESTING STUFF/2.Q-EDGE/Selenium/External jar Files/ExternalJarFiles-master/Jars/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Mystuff/Chintu/SOFTWARE TESTING STUFF/2.Q-EDGE/Selenium/External jar Files/ExternalJarFiles-master/Jars/cucumber-core-1.2.4.jar"/>
+	<classpathentry kind="lib" path="E:/Mystuff/Chintu/SOFTWARE TESTING STUFF/2.Q-EDGE/Selenium/External jar Files/ExternalJarFiles-master/Jars/cucumber-java-1.2.4.jar"/>
+	<classpathentry kind="lib" path="E:/Mystuff/Chintu/SOFTWARE TESTING STUFF/2.Q-EDGE/Selenium/External jar Files/ExternalJarFiles-master/Jars/cucumber-junit-1.2.4.jar"/>
+	<classpathentry kind="lib" path="E:/Mystuff/Chintu/SOFTWARE TESTING STUFF/2.Q-EDGE/Selenium/External jar Files/ExternalJarFiles-master/Jars/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="E:/Mystuff/Chintu/SOFTWARE TESTING STUFF/2.Q-EDGE/Selenium/External jar Files/ExternalJarFiles-master/Jars/cucumber-reporting-0.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/Mystuff/Chintu/SOFTWARE TESTING STUFF/2.Q-EDGE/Selenium/External jar Files/ExternalJarFiles-master/Jars/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="E:/Mystuff/Chintu/SOFTWARE TESTING STUFF/2.Q-EDGE/Selenium/External jar Files/ExternalJarFiles-master/Jars/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="E:/Mystuff/Chintu/SOFTWARE TESTING STUFF/2.Q-EDGE/Selenium/External jar Files/ExternalJarFiles-master/Jars/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="E:/Mystuff/Chintu/SOFTWARE TESTING STUFF/2.Q-EDGE/Selenium/External jar Files/ExternalJarFiles-master/Jars/mockito-all-1.10.19.jar"/>
+	<classpathentry kind="lib" path="E:/Mystuff/Chintu/SOFTWARE TESTING STUFF/2.Q-EDGE/Selenium/External jar Files/ExternalJarFiles-master/Jars/MonteScreenRecorder.jar"/>
+	<classpathentry kind="lib" path="E:/Mystuff/Chintu/SOFTWARE TESTING STUFF/2.Q-EDGE/Selenium/External jar Files/ExternalJarFiles-master/Jars/mysql-connector-java-5.1.38.jar"/>
+	<classpathentry kind="lib" path="E:/Mystuff/Chintu/SOFTWARE TESTING STUFF/2.Q-EDGE/Selenium/External jar Files/ExternalJarFiles-master/Jars/poi-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="E:/Mystuff/Chintu/SOFTWARE TESTING STUFF/2.Q-EDGE/Selenium/External jar Files/ExternalJarFiles-master/Jars/poi-examples-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="E:/Mystuff/Chintu/SOFTWARE TESTING STUFF/2.Q-EDGE/Selenium/External jar Files/ExternalJarFiles-master/Jars/poi-excelant-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="E:/Mystuff/Chintu/SOFTWARE TESTING STUFF/2.Q-EDGE/Selenium/External jar Files/ExternalJarFiles-master/Jars/poi-ooxml-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="E:/Mystuff/Chintu/SOFTWARE TESTING STUFF/2.Q-EDGE/Selenium/External jar Files/ExternalJarFiles-master/Jars/poi-ooxml-schemas-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="E:/Mystuff/Chintu/SOFTWARE TESTING STUFF/2.Q-EDGE/Selenium/External jar Files/ExternalJarFiles-master/Jars/poi-scratchpad-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="E:/Mystuff/Chintu/SOFTWARE TESTING STUFF/2.Q-EDGE/Selenium/External jar Files/ExternalJarFiles-master/Jars/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/Mystuff/Chintu/SOFTWARE TESTING STUFF/2.Q-EDGE/Selenium/External jar Files/ExternalJarFiles-master/Jars/selenium-server-standalone-2.53.0.jar" sourcepath="E:/Mystuff/Chintu/SOFTWARE TESTING STUFF/2.Q-EDGE/Selenium/External jar Files/ExternalJarFiles-master/Jars/selenium-java-2.53.1.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
